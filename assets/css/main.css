@@ -95,6 +95,10 @@ ol, ul {
 
 /* Section/Article */
 
+	.toppie {
+		background-color: rgb(158, 91, 136);
+	}
+
 	header.major {
 		width: -moz-max-content;
 		width: -webkit-max-content;
